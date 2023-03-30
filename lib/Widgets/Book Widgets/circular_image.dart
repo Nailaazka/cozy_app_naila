@@ -29,7 +29,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            'Inayah Putri',
+            'Naila Azka',
             style: GoogleFonts.poppins(
               fontSize: 20,
             ),
